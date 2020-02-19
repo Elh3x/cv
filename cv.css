@@ -1,0 +1,127 @@
+html {
+	
+	background-color:#eee;
+}
+.container {
+	
+margin-left:20%;
+margin-right:20%;
+padding:20px 0;
+border:2px;
+
+}
+h1 {
+ 
+ text-align: center
+ 
+}
+.sous_class{
+	padding:10px 10px;
+	
+	
+}
+.titre
+{
+  color: navy;
+  text-align: center;
+  background-color: #f5f5f5;
+  font-size:28px;
+  padding:10px;
+
+  }
+ .navigator {
+	  
+	 
+ }
+.navigationbar{
+
+  list-style-type: none;
+  margin: 0;
+  color: white;
+  padding: 14px 16px;
+  background-color: #333;
+  
+}
+.navigationbar a {
+	 text-decoration: none;
+  color: white;
+	
+}
+.container a {
+	 text-decoration: none;
+}
+.contact a {
+	 text-decoration: none;
+	color: black;
+	
+}
+.navigationbar li {
+  display: inline;
+  padding: 14px 16px;
+  
+}
+.navigationbar li:hover {
+  background-color: #111;
+}
+ header {
+	   position:relative;
+	   height:400px;
+	   background-color:#f5f5f5
+ }
+.contact
+{
+	padding:0 10px;
+  color: gray;
+   float:right;
+}
+
+.img {
+	margin-top:20px;
+	margin-left:10px;
+	float:left;
+	height: auto;
+	width: auto;
+	background-color: #333;
+	color:white;
+	text-align:center;
+	border: 1px solid #e7e7e7;
+}
+.Formation, .Experience, .Pro_Bénévolat, .Projet_Competences, .autre{
+	
+	background-color:#f7f7f7;
+}
+
+
+
+#Formation{
+ color: white;
+ margin:0;
+  padding: 14px 16px;
+  background-color: #333;
+
+}
+#Experience{
+	margin:0;
+	color: white;
+	padding: 14px 16px;
+	background-color: #333;
+
+}
+
+#Projet_Competences
+{
+	 margin:0;
+ color: white;
+  padding: 14px 16px;
+  background-color: #333;
+}
+
+#Pro_Benevolat
+{
+	 margin:0;
+  color: white;
+  padding: 14px 16px;
+  background-color: #333;
+}
+
+
